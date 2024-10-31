@@ -1,0 +1,9 @@
+---
+author: "Ian Russell"
+title: "Essential F#"
+language: "en-US"
+#output-file: "Essential-F.epub"
+standalone: true
+#epub-cover-image: ${.}/Chapters/s_hero.jpeg
+toc: true
+---

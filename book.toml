@@ -1,9 +1,0 @@
-[book]
-authors = ["Ian Russell"]
-title = "Essential F#"
-language = "en"
-multilingual = false
-src = "Chapters"
-
-[output.epub]
-cover-image = "s_hero.jpeg"
