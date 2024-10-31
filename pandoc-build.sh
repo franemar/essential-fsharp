@@ -1,4 +1,4 @@
-pandoc -o ./book/Essential-F#.epub --epub-cover-image ./s_hero.jpeg \
+pandoc -o ./build/Essential-F#.epub --epub-cover-image ./s_hero.jpeg \
 book.yaml "./Chapters/00a - Preface.md" \
 "./Chapters/00b - Acknowledgments.md" \
 "./Chapters/00c - Getting Started.md" \
